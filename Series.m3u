@@ -1,6 +1,34 @@
 #EXTM3U
 
 #Carátula general de la Serie 1
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="https://image.tmdb.org/t/p/original/bjwHrZKREhL4VbCQP5x3LUPolQ5.jpg" group-title="Series", Serie 1 - Temporada 1
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/n70ikn2k.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E02 - Título del Episodio 2
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/1iidjqx.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E03 - Título del Episodio 3
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/jjrq4rw.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E04 - Título del Episodio 4
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/mdiyyhee.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E05 - Título del Episodio 5
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/984up6s3.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E06 - Título del Episodio 6
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/fffho44t.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E07 - Título del Episodio 7
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/g2g97j47.mp4
+
+#EXTINF:-1 tvg-id="serie1" tvg-name="El nivel secreto (2024)" tvg-logo="" group-title="Series", Serie 1 - S01E08 - Título del Episodio 8
+https://ggdriveplyer.pages.dev/?video=https://pomf2.lain.la/f/5u39ye1h.mp4
+
+
+#Carátula general de la Serie 1
 #EXTINF:-1 tvg-id="serie1" tvg-name="Daredevil: Born Again (2025)" tvg-logo="https://image.tmdb.org/t/p/w200/9lLuhV703HGCbnz6FxnqCwIwzAZ.jpg" group-title="Series", Serie 1 - Temporada 1
 
 #EXTINF:-1 tvg-id="serie1" tvg-name="Daredevil: Born Again (2025)" tvg-logo="" group-title="Series", Serie 1 - S01E01 - Título del Episodio 1
